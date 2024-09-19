@@ -25,12 +25,12 @@ Este proyecto es una aplicación simple de gestión de libros y autores desarrol
 ## Configuración del Proyecto
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/pabalberione/api-libro-autor.git
     ```
 
 2. Accede al directorio del proyecto:
     ```bash
-    cd tu-repositorio
+    cd api-libro-autor
     ```
 
 3. Asegúrate de tener instaladas las dependencias necesarias. Puedes hacerlo con Maven:
