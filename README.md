@@ -7,8 +7,6 @@ Este proyecto es una aplicación simple de gestión de libros y autores desarrol
 - [Requisitos Previos](#requisitos-previos)
 - [Configuración del Proyecto](#configuración-del-proyecto)
 - [Ejecutar la Aplicación](#ejecutar-la-aplicación)
-- [Uso de la API](#uso-de-la-api)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 
 ## Tecnologías Utilizadas
 - Java 17
